@@ -1,5 +1,15 @@
-Mu - a "micro" editor
+Nu - a "micro" editor
 =====================
+
+**This is an experimental fork of the mu editor: https://github.com/mu-editor/mu**
+
+*The intention of this fork is to explore the viability of a Python
+editor-cum-console which allows code to be edited, saved and run in the same
+space, depending on what's selected.
+
+The idea is inspired by (of all things) Microsoft's
+SQL Server Management Studio. This allows code to be written, run ad hoc,
+saved etc.*
 
 **This project works with Python 3 and the Qt UI library.**
 
